@@ -154,7 +154,7 @@ function addToDo() {
 }
 
 // Agregar un 'Event Listener' para que cada vez que el botón 'AGREGAR' sea clickeado
-// se ejecute la función 'addToDo'
+// se ejecute la función 'addToDo' holaaa
 //   1) Seleccionar el elemento cuyo id es 'addButton'
 //   2) Agregarle un 'click' event listener, pasándole la función 'addToDo' como callback
 
